@@ -16,8 +16,7 @@ A simple yet frustratingly fun mini-game where your goal is to click a button th
 - Fully responsive & mobile-friendly
 
 ### 👾 Try it if you dare:
-👉 [Live Demo Link](https://yourusername.github.io/catch-me-if-you-can)
+👉 [Live Demo Link](https://shaikafrid1.github.io/catch-me-if-you-can/)
 
-### 📸 Screenshot:
-![screenshot](./screenshot.png)
+
 
